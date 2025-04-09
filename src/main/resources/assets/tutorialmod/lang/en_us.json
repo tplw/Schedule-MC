@@ -1,5 +1,7 @@
 {
   "item.tutorialmod.marijuana_leaf": "Marijuana Leaf",
   "item.tutorialmod.cocaine": "Cocaine",
-  "item.tutorialmod.ogsucker": "OG Sucker"
+  "item.tutorialmod.ogsucker": "OG Sucker",
+  "item.tutorialmod.cocaine_package": "Cocaine Package",
+  "block.tutorialmod.cocaine_package_block": "Cocaine Package Block"
 }
