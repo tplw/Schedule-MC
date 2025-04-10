@@ -3,5 +3,7 @@
   "item.tutorialmod.cocaine": "Cocaine",
   "item.tutorialmod.ogsucker": "OG Sucker",
   "item.tutorialmod.cocaine_package": "Cocaine Package",
-  "block.tutorialmod.cocaine_package_block": "Cocaine Package Block"
+  "block.tutorialmod.cocaine_package_block": "Cocaine Package Block",
+  "itemgroup.tutorialmod.drugs_items": "Drugs",
+  "itemgroup.tutorialmod.drugs_blocks": "Drug Blocks"
 }
