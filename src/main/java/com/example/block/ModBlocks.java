@@ -1,10 +1,10 @@
 package com.example.block;
 
 import com.example.TutorialMod;
+import com.example.block.custom.ShelfBlock;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
-import net.minecraft.block.MapColor;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
@@ -14,10 +14,12 @@ import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 
 public class ModBlocks {
+    public static final Block SHELF = registerBlock("shelf",
+            new ShelfBlock(AbstractBlock.Settings.create().nonOpaque()));
+
 
     public static final Block COCAINE_PACKAGE_BLOCK = registerBlock("cocaine_package_block",
             new Block(AbstractBlock.Settings.create().strength(4f).sounds(BlockSoundGroup.CORAL)));
-
 
     private static Block registerBlock(String name, Block block){
         registerBlockItem(name, block);

@@ -29,7 +29,7 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemgroup.tutorialmod.drugs_blocks"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModBlocks.COCAINE_PACKAGE_BLOCK);
-
+                        entries.add(ModBlocks.SHELF);
                     })
                     .build());
 
