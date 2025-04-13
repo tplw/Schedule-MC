@@ -3,9 +3,14 @@
   "item.tutorialmod.cocaine": "Cocaine",
   "item.tutorialmod.ogsucker": "OG Sucker",
   "item.tutorialmod.cocaine_package": "Cocaine Package",
-  "block.tutorialmod.cocaine_package_block": "Cocaine Package Block",
+  "item.tutorialmod.plant_trimmer": "Plant Trimmer",
+
+
   "itemgroup.tutorialmod.drugs_items": "Drugs",
   "itemgroup.tutorialmod.drugs_blocks": "Drug Blocks",
+
+
+  "block.tutorialmod.cocaine_package_block": "Cocaine Package Block",
   "block.tutorialmod.chair": "Chair",
   "block.tutorialmod.shelf": "Shelf"
 }

@@ -15,7 +15,7 @@ import net.minecraft.util.Identifier;
 
 public class ModBlocks {
     public static final Block SHELF = registerBlock("shelf",
-            new ShelfBlock(AbstractBlock.Settings.create().nonOpaque()));
+            new ShelfBlock(AbstractBlock.Settings.create().nonOpaque().strength(2f)));
 
 
     public static final Block COCAINE_PACKAGE_BLOCK = registerBlock("cocaine_package_block",
