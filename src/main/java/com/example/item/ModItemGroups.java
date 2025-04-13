@@ -23,6 +23,8 @@ public class ModItemGroups {
                         entries.add(ModItems.MARIJUANA_LEAF);
                         entries.add(ModItems.PLANT_TRIMMER);
 
+
+
                     })
                     .build());
     public static final ItemGroup DRUGS_BLOCKS_GROUP = Registry.register(Registries.ITEM_GROUP,

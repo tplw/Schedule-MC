@@ -25,7 +25,6 @@ public class ModItems {
             fabricItemGroupEntries.add(COCAINE);
             fabricItemGroupEntries.add(OGSUCKER);
             fabricItemGroupEntries.add(COCAINE_PACKAGE);
-            
         });
     }
 }
