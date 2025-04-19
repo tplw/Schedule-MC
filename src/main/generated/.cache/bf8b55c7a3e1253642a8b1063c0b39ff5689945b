@@ -1,0 +1,12 @@
+// 1.21	2025-04-14T11:27:27.268803	Tutorial Mod/Model Definitions
+ba7194ec8782121c48d49c248a5c47313c445669 assets/tutorialmod/models/block/cocaine_package_block.json
+9c07a58a7d7f170cc59dd8e6c7e00b5be52e1cf8 assets/tutorialmod/blockstates/cocaine_package_block.json
+f54293f3c09db3d3f8ebbbd12c161ee246769937 assets/tutorialmod/blockstates/shelf.json
+9675f2c4025d7cb5b9e0ccade34bd598813b7bbf assets/tutorialmod/models/item/ogsucker.json
+d6a65c4208786b0be474693c90da9c77ac6a0039 assets/tutorialmod/models/item/cocaine_package_block.json
+82461259853e1fb0915a4394d0c063f37f4742c8 assets/tutorialmod/models/item/marijuana_leaf.json
+b9bd4cfc8f7a1b1842dd9c029b1f59a77164e49c assets/tutorialmod/models/item/cocaine.json
+5833f0132a514842f103c54ce915fb938c282796 assets/tutorialmod/models/item/plant_trimmer.json
+fef1a35e2c982040e8469f653b4c46b51bf647af assets/tutorialmod/models/block/shelf.json
+ca39d2b891182c761ff8d7c50c689f25b5cbb804 assets/tutorialmod/models/item/shelf.json
+5639dae58e0532d49965e5455f82ffd9709261e1 assets/tutorialmod/models/item/cocaine_package.json
