@@ -10,7 +10,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModItems {
-    public static final Item PLANT_TRIMMER = registerItem("plant_trimmer", new PlantTrimmer(new Item.Settings().maxDamage(1)));
+    public static final Item PLANT_TRIMMER = registerItem("plant_trimmer", new PlantTrimmer(new Item.Settings().maxDamage(32)));
     public static final Item COCAINE_PACKAGE = registerItem("cocaine_package", new Item(new Item.Settings()));
     public static final Item OGSUCKER = registerItem("ogsucker", new Item(new Item.Settings()));
     public static final Item COCAINE = registerItem("cocaine", new Item(new Item.Settings().food(ModFoodComponents.COCAINE)));
